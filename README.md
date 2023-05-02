@@ -1,7 +1,7 @@
 # keylogger_school_project
 School project about keyloggers
 
-###What are keyloggers?
+### What are keyloggers?
 
 Keyloggers are a type of malware that record every keystroke you make on your computer, including sensitive information like usernames and passwords.
 
